@@ -44,5 +44,4 @@ If you have any questions or suggestions, please feel free to contact me at [ST1
 
 ## Acknowledgements
 
-- This application was developed as part of a portfolio of evidence for an Object-Oriented Programming course.
-- 
+- This application was developed as part of a portfolio of evidence for a Programming 2A course provided by the IIE.

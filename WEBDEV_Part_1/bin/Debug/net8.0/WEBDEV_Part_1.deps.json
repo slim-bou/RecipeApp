@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WEBDEV_Part_1/1.0.0": {
+        "runtime": {
+          "WEBDEV_Part_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WEBDEV_Part_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
